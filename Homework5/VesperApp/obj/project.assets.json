@@ -5955,11 +5955,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Maqsud\\Desktop\\Homeworks\\Homework5\\VesperApp\\VesperApp.csproj",
+      "projectUniqueName": "C:\\Users\\Maqsud\\Desktop\\Backend\\Homeworks\\Homework-5-Vesper-Backend-\\Homework5\\VesperApp\\VesperApp.csproj",
       "projectName": "VesperApp",
-      "projectPath": "C:\\Users\\Maqsud\\Desktop\\Homeworks\\Homework5\\VesperApp\\VesperApp.csproj",
+      "projectPath": "C:\\Users\\Maqsud\\Desktop\\Backend\\Homeworks\\Homework-5-Vesper-Backend-\\Homework5\\VesperApp\\VesperApp.csproj",
       "packagesPath": "C:\\Users\\Maqsud\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Maqsud\\Desktop\\Homeworks\\Homework5\\VesperApp\\obj\\",
+      "outputPath": "C:\\Users\\Maqsud\\Desktop\\Backend\\Homeworks\\Homework-5-Vesper-Backend-\\Homework5\\VesperApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Maqsud\\AppData\\Roaming\\NuGet\\NuGet.Config",
